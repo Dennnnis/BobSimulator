@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\dennis\desktop\c# programma's\bobsimulator\bobsimulator\main.cpp(18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BobSimulator.vcxproj -> C:\Users\Dennis\Desktop\C# Programma's\BobSimulator\Release\x64\Output\Game.exe
